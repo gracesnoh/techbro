@@ -142,22 +142,18 @@ h1 {
 	display: inline-block;
 	width: 500px;
 	position: relative;
-	background-color: white;
 }
 
 .img2 {
 	display: inline-block;
 	height: 305px;
-	background-color: white;
 
 }
 
 .img:hover {
 	opacity: 0.7;
-	background-color: red;
 }
 
 .img2:hover {
 	opacity: 0.7;
-	background-color: red;
 }
